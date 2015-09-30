@@ -5,9 +5,9 @@
     "branch":      "lp5.1"
   },
   {
-    "repository": "lg-devs/android_kernel_lge_msm8974",
+    "repository": "RenderBroken/G2-CAF-kernel",
     "target_path": "kernel/lge/msm8974",
-    "branch":      "cm-12.1-caf"
+    "branch":      "cm-12.x-caf"
   },
   {
     "repository": "lg-devs/proprietary_vendor_lge",
